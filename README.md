@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi Humans
+
+im here, I like Node.js and Coffescropt
